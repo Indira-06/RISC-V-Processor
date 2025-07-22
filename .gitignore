@@ -1,0 +1,8 @@
+*.vcd
+*.hex
+*.log
+*.pyc
+__pycache__/
+.vscode/
+*.out
+*.elf
